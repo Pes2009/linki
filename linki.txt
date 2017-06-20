@@ -1,0 +1,84 @@
+	odata najswiezszy link
+https://assets.cdn.sap.com/sapcom/docs/2015/08/760a675a-5a7c-0010-82c7-eda71af511fa.pdf
+https://blogs.sap.com/2014/02/05/odata-producer-using-apache-olingo-with-mysql-jpa-tomcat-web-server/
+
+
+	z wczoraj
+https://github.com/apache/olingo-odata4
+https://blogs.sap.com/2014/02/05/odata-producer-using-apache-olingo-with-mysql-jpa-tomcat-web-server/
+https://olingo.apache.org/doc/odata2/index.html
+https://olingo.apache.org/doc/odata2/tutorials/AnnotationProcessorExtension.html
+https://olingo.apache.org/doc/odata2/tutorials/CreateWebApp.html
+http://www.objectdb.com/api/java/jpa/OneToOne
+
+
+	fajny poradnig do odata i nie tylko java
+https://sap.github.io/cloud-s4ext/week-5/
+http://saphanatutorial.com/how-to-create-sap-hana-odata-service/
+https://blogs.sap.com/2013/10/03/lets-talk-odata-shall-we/
+
+
+
+	data source jta i local resouce wytlumaczenie
+https://stackoverflow.com/questions/1962525/persistence-unit-as-resource-local-or-jta
+http://kobietydokodu.pl/niezbednik-juniora-adnotacje/
+https://4programmers.net/Forum/Java/223466-@inject_@resource_i_@ejb_w_java_ee_roznice_pomiedzy_nimi
+
+
+
+	sap java
+https://www.sap.com/developer/groups/cp-middle-java-1.html
+
+
+
+	sap tutorial
+https://www.sap.com/developer/tutorial-navigator.html
+https://blogs.sap.com/2013/02/18/todos-application-with-sapui-jersey-and-jpa/
+
+
+
+	sap spring tutorial
+https://www.sap.com/developer/how-tos/2016/10/spring-boot-getting-started.html
+
+	sap ui5
+https://blogs.sap.com/2014/12/10/sap-ui5-with-local-json-model/
+
+
+
+
+
+https://help.sap.com/viewer/d4790b2de2f4429db6f3dff54e4d7b3a/Cloud/en-US/4efc124a0ccc42b3b502ad3a3908d23d.html
+https://help.hana.ondemand.com/help/1742986c3cfa47099442aee0cf8df5e9.html
+https://archive.sap.com/discussions/thread/3866055
+https://help.sap.com/viewer/d4790b2de2f4429db6f3dff54e4d7b3a/Cloud/en-US/e4a34c43bb5710148321eb413bb59734.html
+https://archive.sap.com/discussions/thread/3940943
+https://www.google.pl/search?espv=2&q=java+sap+hana+datasource&oq=java+sap+hana+datasource&gs_l=serp.3...1804.1804.0.1977.1.1.0.0.0.0.73.73.1.1.0.foo%2Cersl%3D1%2Cfett%3D1%2Cewh%3D0%2Cnso-enksa%3D0%2Cnso-enfk%3D0.1..0...1.1.64.serp..0.0.0.Rok9gcb3k8E
+https://gerardnico.com/wiki/hana/jdbc
+http://maxdb.sap.com/doc/7_7/46/7bc365e97150d1e10000000a155369/content.htm
+https://archive.sap.com/discussions/thread/3191803
+https://www.google.pl/search?espv=2&q=java+sap+db+connection+example&oq=java+sap+db+connector+example&gs_l=serp.1.0.30i10k1.14960.15133.0.17078.3.3.0.0.0.0.150.310.2j1.3.0....0...1.1.64.serp..1.2.232...0i19k1j0i8i30i19k1.rTsbekXJOIs
+
+
+https://www.sap.com/developer/how-tos/2016/08/hxe-connect-hxe-using-jdbc.html
+
+https://www.youtube.com/watch?v=o1yFqwdnMH4&index=14&list=PLkzo92owKnVzSt_-Q1-mAe_lCPxJTXUkY
+
+https://github.com/saphanaacademy/HCP/tree/master/Java-development-on-HCP/Adding-Application-Managed-Persistence-with-JPA-and-EJB
+http://www.thejavageek.com/2014/01/12/jpa-crud-example/
+http://techmyguru.com/ejb3/index.php?section=7
+
+
+
+
+
+
+
+
+
+
+
+
+BARDZO WAZNE
+https://help.sap.com/viewer/d4790b2de2f4429db6f3dff54e4d7b3a/Cloud/en-US/7612e180711e1014839a8273b0e91070.html#loio7612e180711e1014839a8273b0e91070__section_prereq
+http://www.objectdb.com/java/jpa/persistence
+https://olingo.apache.org/doc/odata2/tutorials/AnnotationProcessorExtension.html

@@ -1,3 +1,15 @@
+	21.06.2017
+	odata czytnik webui5
+https://blogs.sap.com/2016/04/13/sapui5-application-consuming-odata-service-with-sap-web-ide/
+
+	tutorial ui5
+http://openui5.org/getstarted.html
+	
+	
+	
+	
+	
+	
 	odata najswiezszy link
 https://assets.cdn.sap.com/sapcom/docs/2015/08/760a675a-5a7c-0010-82c7-eda71af511fa.pdf
 https://blogs.sap.com/2014/02/05/odata-producer-using-apache-olingo-with-mysql-jpa-tomcat-web-server/

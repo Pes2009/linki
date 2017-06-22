@@ -1,6 +1,8 @@
 	21.06.2017
 	odata czytnik webui5
 https://blogs.sap.com/2016/04/13/sapui5-application-consuming-odata-service-with-sap-web-ide/
+http://www.sapyard.com/category/tutorial/sapui5/page/2/
+https://sapui5.hana.ondemand.com/#test-resources/sap/ui/commons/demokit/Toolbar.html
 
 	tutorial ui5
 http://openui5.org/getstarted.html

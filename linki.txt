@@ -1,3 +1,8 @@
+	soap	
+https://archive.sap.com/discussions/thread/3412631
+https://archive.sap.com/discussions/thread/3901328
+https://stackoverflow.com/questions/35798899/binding-soap-service-to-sapui5-simpleform
+	
 	21.06.2017
 	odata czytnik webui5
 https://blogs.sap.com/2016/04/13/sapui5-application-consuming-odata-service-with-sap-web-ide/

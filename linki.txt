@@ -1,4 +1,8 @@
-	soap	
+	27.06.2017 
+	odata sap java factory service
+https://blogs.sap.com/2015/03/19/creating-odata-service-for-hana-cloud-platform-jpa-application-and-do-custom-processing-according-to-your-requirement/
+
+soap	
 https://archive.sap.com/discussions/thread/3412631
 https://archive.sap.com/discussions/thread/3901328
 https://stackoverflow.com/questions/35798899/binding-soap-service-to-sapui5-simpleform

@@ -6,6 +6,7 @@ soap
 https://archive.sap.com/discussions/thread/3412631
 https://archive.sap.com/discussions/thread/3901328
 https://stackoverflow.com/questions/35798899/binding-soap-service-to-sapui5-simpleform
+https://stackoverflow.com/questions/124269/simplest-soap-example
 	
 	21.06.2017
 	odata czytnik webui5

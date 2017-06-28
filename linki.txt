@@ -1,3 +1,7 @@
+	28.07.2017
+	odata crud simple example
+https://blogs.sap.com/2015/04/05/crud-in-sapui5-with-odata-and-jpa-running-on-hcp/
+	
 	27.06.2017 
 	odata sap java factory service
 https://blogs.sap.com/2015/03/19/creating-odata-service-for-hana-cloud-platform-jpa-application-and-do-custom-processing-according-to-your-requirement/

@@ -1,3 +1,9 @@
+	https://olingo.apache.org/doc/odata2/tutorials/OlingoV2BasicClientSample.html#createdata
+	https://github.com/sdl/odata-example
+	https://pawelwiejkut.net/java-odata-tutorial-part-1/
+	https://olingo.apache.org/doc/odata2/tutorials/OlingoV2BasicClientSample.html
+	https://olingo.apache.org/doc/odata4/tutorials/write/tutorial_write.html
+	
 	28.07.2017
 	odata crud simple example
 https://blogs.sap.com/2015/04/05/crud-in-sapui5-with-odata-and-jpa-running-on-hcp/
